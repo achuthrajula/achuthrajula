@@ -4,4 +4,4 @@
 
 ## I'm Achuth Rajula,
 
-I'm a fullstack engineer on AI platform, currently working at [@voxlogic,](https://www.voxlogic.io/)
+I'm a fullstack engineer, currently pursing my masters at Arizona State University (Master's in Software Engineering).
