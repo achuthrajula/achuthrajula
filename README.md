@@ -4,4 +4,4 @@
 
 ## I'm Achuth Rajula,
 
-I'm a fullstack engineer, currently pursing my masters at Arizona State University (Master's in Software Engineering).
+I'm a fullstack engineer, currently pursing my Masters in Software Engineering at Arizona State University.
